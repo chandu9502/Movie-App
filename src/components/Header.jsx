@@ -23,6 +23,4 @@ function Header() {
   )
 }
 
-// Header component
-
 export default Header

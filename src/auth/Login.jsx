@@ -16,6 +16,4 @@ function Login() {
     )
 }
 
-// login flow script
-
 export default Login
